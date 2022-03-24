@@ -1,0 +1,53 @@
+
+
+Lessonic
+les private it
+
+Home :
+	Lessonic,Les privat dengan metode smart, fun, dan logic. Mencetak generasi juara, memanfaatkan teknologi untuk hal positif serta
+	mampu membuat dan mengelola lapangan pekerjaan berbasis IT. 
+
+About :
+	Lessonic merupakan lembaga yang bergerak dibidang jasa penyedia les private untuk SD,SMP,SMA/SMK berbasis IT. didirikan sejak tahun 2011
+	oleh seorang alumni mahasiswa lulusan STIKOM BALI jurusan ilmu komputer.
+	
+	6 corporate value kami
+	1. Secret Formula : 
+		kami memiliki secret formula dalam memecahkan soal yag berbasiskan pada pemikiran logis dan pendalaman konsep. Kami sangat menghindari pemecahan
+		masalah dengan menghafalkan rumus maupun membiasakan anak untuk berfikir secara bertele - tele.
+	2. Pengajar Unggulan :
+		Pengajar kami terdiri dari mahasiswa dan alumni dari Universitas IT ternama di Bali seperti STIKOM, STIKI serta universitas ternama lainnya 
+		yag telah kami saring melalui berbagai tahapan sleksi yang meliputi interview, microteaching, serta pembekalan hingga memenuhi kualitas kami.
+	3. Pendalaman Soal
+		Untuk meningkatkan pemahaman dan sebagai bahan evaluasi, kami mempunyai database bank soal yang telah dikelompokan berdasarkan level demi level untuk
+		kami berikan kepada siswa sesuai dengan titik progress masing-masing untuk mempercepat pencapaian target.
+	4. Two Way Communication
+		Kami akan selalu menjaga hubungan dengan orang tua untuk ikut mendengar, merasakan, dan mengalami permasalahan yang sedang dihadapi siswa. Dengan 
+		dimikian, besar harapan kami bisa mengerti permasalahan yang sedang dihadapi masing-masing siswa sehingga bisa memberikan solusi terbaik.
+	5. High Technology Support
+		Untuk menunjang kualitas pembelajaran dan pelayanan, kami menggunakan teknologi terkini baik untuk menunjang proses pembelajaran, evaluasi, maupun 
+		management tim.
+	6. Customer Satisfaction 
+		Target terbesar kami adalah untuk membuat orang tua tersenyum melihat anaknya berhasil meraih prestasi. Kami segenap tim akan senantiasa berupaya untuk 
+		mewujudkan target ini kepada seluruh siswa kami.
+
+
+Service :
+	1. Design & Pemrograman Web
+	2. HTML, PHP, CSS,
+	3. Design Grafis
+	4. C/C++
+	5. Java
+	6. Mc. Office (word, excel, power point)
+
+Pricing :
+	Paket Prabayar
+	
+	Nasional : SD kels 1-3 (2.750.000/10 sesi), SD kelas 4-6 (2.860.0000/se10 sesi)
+	Internasional : SD kelas 1-3 (3.410.000/10 sesi), SD kelas 4-6 (2.560.0000/10 sesi)
+
+	Nasional : SMP (3.520.000/10 sesi)
+	Internasional : SMP (4.180.000/10 sesi)
+	
+	Nasional : SMA/SMK (4.280.000/10 sesi)
+	Internasional : SMA/SMK (5.840.000/10 sesi)
